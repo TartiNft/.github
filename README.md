@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/evandelacruz/tarti">
+  <a href="https://github.com/TartiNft/tarti">
     <img src="TartiCoinLogo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
@@ -10,17 +10,17 @@
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/evandelacruz/tarti/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/TartiNft/tarti/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/evandelacruz/tarti/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/TartiNft/tarti/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   ·
-  <a href="https://github.com/evandelacruz/tarti/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
+  <a href="https://github.com/TartiNft/tarti/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
 </div>
 
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/evandelacruz/tarti)](LICENSE) ![Commit Activity](https://img.shields.io/github/commit-activity/t/evandelacruz/tarti/dev)
+[![Project license](https://img.shields.io/github/license/TartiNft/tarti)](LICENSE) ![Commit Activity](https://img.shields.io/github/commit-activity/t/TartiNft/tarti/dev)
 
 </div>
 
@@ -68,7 +68,7 @@ A Tarti is an NFT. As of now, Tartis are all music and related files.
 When a Tartist or Tarti is minted, an off chain service will create the related multimedia and store it on IPFS at tarti.eth, which will be linked by the NFTs metadata.
 
 ### Dapp
-A Dapp to interact with these contracts can be found at [Github](http://github.com/evandelacruz/tartiweb)
+A Dapp to interact with these contracts can be found at [Github](http://github.com/TartiNft/tartiweb)
 
 ### System Diagram
 !["High level diagram of the Tarti system"](tarti-high-diagram.svg "System Diagram")
@@ -109,13 +109,13 @@ Porting over from Jira soon...
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub issues](https://github.com/evandelacruz/tarti/issues)
-- Contact options listed on [this GitHub profile](https://github.com/evandelacruz)
+- [GitHub issues](https://github.com/TartiNft/tarti/issues)
+- Contact options listed on [this GitHub profile](https://github.com/TartiNft)
 
 ## Project assistance
 
 - Mint a Bot!
-- Add a [GitHub Star](https://github.com/evandelacruz/tarti) to the project.
+- Add a [GitHub Star](https://github.com/TartiNft/tarti) to the project.
 
 ## Contributing
 
