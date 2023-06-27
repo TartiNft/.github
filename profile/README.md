@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/TartiNft/tarti">
-    <img src="TartiCoinLogo.png" alt="Logo" width="100" height="100">
+    <img src="../TartiCoinLogo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
