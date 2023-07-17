@@ -47,7 +47,7 @@
 
 ## About
 
-Tarti is made up of two smart contracts: [Tartist.sol]([Tartist.md](https://github.com/TartiNft/tarti/blob/dev/contracts/Tartist.sol)) and [Tarti.sol]([Tartist.md](https://github.com/TartiNft/tarti/blob/dev/contracts/Tarti.sol)).
+Tarti is made up of two smart contracts: [Tartist.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tartist.sol) and [Tarti.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tarti.sol).
 
 ### Tartist
 Simply put, a Tartist is a bot. Presently, Tartists are all music producers.
