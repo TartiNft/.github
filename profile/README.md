@@ -20,6 +20,12 @@ What does it do?
 - Tarti provides an interface to TRAIT AI via Ethereum ERC721 Smart Contracts.
 - Tarti provides proof of ownership, chain pf custody, royalty payouts, and right ownership selling and trading via the smart contracts.
 
+For demos and more check out my [Twitter](https://twitter.com/EvanLDeLaCruz).
+
+### Demos
+
+[Initial Raw Demo - Youtube](https://www.youtube.com/watch?v=nlXNjfCda84)
+
 ### Tartist
 Simply put, a Tartist is a bot. Presently, Tartists are all music producers.
 A Tartist is also an NFT.
@@ -79,7 +85,7 @@ Reach out to the maintainer at one of the following places:
 
 ## Project assistance
 
-- Mint a Bot!
+- Mint a Bot! (Coming to Testnet soon!)
 - Add a [GitHub Star](https://github.com/TartiNft/tarti) to the project.
 
 ## Contributing
