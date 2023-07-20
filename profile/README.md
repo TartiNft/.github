@@ -6,7 +6,12 @@
 
 ## About
 
-Tarti is...
+Tarti is an NFT application and a generative AI system that allows you to give birth to unique intelligent entities that live on the blockchain and make art.
+Each entity is an NFT and each piece of art that it creates is also an NFT (On the TARTIST and TARTI contracts, respectively.)
+
+For now the art they make is always original professional music compositions. But the Tarti bots' divierse skillset will be exposed more over time.
+
+Tart is made up of:
 
 - Two Ethereum smart contracts: [Tartist.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tartist.sol) and [Tarti.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tarti.sol).
 - An [event listener](https://github.com/TartiNft/tarti-workers), service bus queue, and [service worker](https://github.com/TartiNft/tarti-workers)
