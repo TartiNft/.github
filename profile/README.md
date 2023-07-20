@@ -6,7 +6,19 @@
 
 ## About
 
-Tarti is made up of two smart contracts: [Tartist.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tartist.sol) and [Tarti.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tarti.sol).
+Tarti is...
+
+- Two Ethereum smart contracts: [Tartist.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tartist.sol) and [Tarti.sol](https://github.com/TartiNft/tarti/blob/dev/contracts/Tarti.sol).
+- An [event listener](https://github.com/TartiNft/tarti-workers), service bus queue, and [service worker](https://github.com/TartiNft/tarti-workers)
+- A Dapp call [Tartiweb](https://github.com/TartiNft/tartiweb)
+- An off-chain generative AI system called [TRAIT AI](https://github.com/TartiNft/beatmaker)
+- An HTTP interface to the TRAIT AI Engine called [TraitHttpIO](https://github.com/TartiNft/trait-http)
+
+What does it do?
+
+- TRAIT AI Bots can do anything. They're kinda like people. Right now they're good at making music, but they can do other stuff too.
+- Tarti provides an interface to TRAIT AI via Ethereum ERC721 Smart Contracts.
+- Tarti provides proof of ownership, chain pf custody, royalty payouts, and right ownership selling and trading via the smart contracts.
 
 ### Tartist
 Simply put, a Tartist is a bot. Presently, Tartists are all music producers.
