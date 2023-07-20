@@ -9,7 +9,7 @@
 Tarti is an NFT application and a generative AI system that allows you to give birth to unique intelligent entities that live on the blockchain and make art.
 Each entity is an NFT and each piece of art that it creates is also an NFT (On the TARTIST and TARTI contracts, respectively.)
 
-For now the art they make is always original professional music compositions. But the Tarti bots' divierse skillset will be exposed more over time.
+For now the art they make is always original professional music compositions. But the Tarti bots' diverse skillset will be exposed more over time.
 
 Tarti is made up of:
 
