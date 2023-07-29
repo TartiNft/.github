@@ -2,6 +2,15 @@
   Tarti
 </div>
 
+<div align="center">
+<br />
+
+![Static Badge](https://img.shields.io/badge/Ethereum-Sepolia-blue?logo=ethereum)
+![Static Badge](https://img.shields.io/badge/OpenZepplin--Contracts-%5E4.9.2-blue?logo=openzeppelin)
+![Static Badge](https://img.shields.io/badge/Solidity-0.8.18-blue?logo=Solidity)
+![Static Badge](https://img.shields.io/badge/Truffle-5.10.1-blue?)
+
+</div>
 ---
 
 ## About
