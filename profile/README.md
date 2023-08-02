@@ -78,7 +78,17 @@ Bug/feature: If the Royalty rate is set, then the owner of the Tartist must also
 
 - Solidity
 - OpenZepplin
+  - [ERC721URIStorage](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721URIStorage.sol)
+  - [ERC721Enumerable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol)
+  - [PullPayment] (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.9/contracts/security/PullPayment.sol)
+  - [Ownable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol)
 - Truffle
+
+### Why Ethereum?
+
+I considered L2 and cross chain solutions. I just am not sure of the state of the market and where things are going. I might be a bit behind. It seemed like all the big projects were on Ethereum despite the cost, so I decided to go that route. 
+
+I just read some PRs in the [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4258) repo. They are getting rid of PullPayments, which I use. And there justification is a "change in the crosschain landscape". So, I might decide to go crosschain if I ever do a V2. I will at least learn more and see what the trends are and why.
 
 ## Usage
 
