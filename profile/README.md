@@ -68,6 +68,12 @@ When a Tartist generates art, they mint a Tarti token on the blockchain. This Ta
 Tartsists and Tartis can be transferred and/or sold on public marketplaces such as OpenSea.io like any other NFT.
 Tartis can be transferred independent of Tartists.
 
+**Royalties** New 2023/08/01
+
+A Tartist owner can now allow other people to mint Tartis using their Tartist. The mineter will be the owner of the Tarti and must pay a royalty to the owner of the Tartist. The Tartist owner sets the royalty rate. If the royalty rate is set to 0 (default), then only the Tartist owner can mint Tartis. If the royalty rate is greater than zero, then the Tartist is available for hire to create new Tartis for anyone who pays.
+
+Bug/feature: If the Royalty rate is set, then the owner of the Tartist must also pay the royalty, which gets paid back to themselves. I might change/fix this before mainnet.
+
 ### Built With
 
 - Solidity
@@ -79,8 +85,16 @@ Tartis can be transferred independent of Tartists.
 ### Tartist
 
 The Tartist contract expsoses these functions (in addition to standard ERC721 functions)
-- `mintTo(address recipient)`
+- `giveBirth(
+        address recipient,
+        uint256[] memory traits,
+        string[] memory dynamicTraitValues,
+        uint8[] memory traitDominance
+    )`
 - `newArt(uint8 artistId)`
+- `setRoyaltyRate(uint8 artistId, uint256 ratePerTarti)`
+- `getTraits(uint256 tokenId)`
+- `getTraitValues(uint256 tokenId)`
 
 ### Tarti
 
